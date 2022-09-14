@@ -7,9 +7,6 @@ Este documento es la guía de la asignatura **Ionic - Aplicaciones Híbridas** d
 
 ## Aprenderemos ionic con ejercicios
 
-
-Ejemplos y soluciones a los ejercicios: <https://github.com/LuisJoseSanchez/aprende-ionic-con-ejercicios>
-
 <hr>
 
 ## Aplicaciones de ejemplo en Ionic
