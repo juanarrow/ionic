@@ -20,7 +20,7 @@ Este documento es la guía de la asignatura **Ionic - Aplicaciones Híbridas** d
 
 ## Aplicación de Ionic
 
-[Enunciado con los requisitos de la aplicación](aplicacion_ionic.pdf)
+<!--[Enunciado con los requisitos de la aplicación](aplicacion_ionic.pdf)-->
 
 <hr>
 
